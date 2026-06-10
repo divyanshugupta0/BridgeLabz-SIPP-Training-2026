@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class PowerOfNumberFor {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a number: ");
+        int number = sc.nextInt();
+        System.out.print("Enter the power: ");
+        int power = sc.nextInt();
+        if (power < 0 || number < 0) {
+            System.out.println("Please enter a non-negative integer for power.");
+            return;
+        }
+        if (number == 0 && power == 0) {
+            System.out.println("0 to the power of 0 is undefined.");
+            return;
+        }
+        for(int i = 1; i < power; i++) {
+            number *= number;
+        }   
+        System.out.println("The result is: " + number);
+    }
+}
