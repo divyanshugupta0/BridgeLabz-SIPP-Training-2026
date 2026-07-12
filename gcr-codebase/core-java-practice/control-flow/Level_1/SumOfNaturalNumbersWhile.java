@@ -1,3 +1,4 @@
+package Level_1;
 import java.util.Scanner;
 public class SumOfNaturalNumbersWhile {
     public static void main(String[] args) {

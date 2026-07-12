@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class UniversityFeeDiscont {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

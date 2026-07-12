@@ -1,4 +1,4 @@
-
+package Level_1;
 import java.util.Scanner;
 
 public class SumUntilZero {

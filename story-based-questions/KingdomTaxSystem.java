@@ -12,7 +12,6 @@ public class KingdomTaxSystem {
         } else {
             return (int) (0.30 * income);
         }
-        return 0;
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

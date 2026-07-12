@@ -1,3 +1,4 @@
+package Level_2;
 import java.util.Scanner;
 public class PowerOfNumberWhile {
     public static void main(String[] args) {

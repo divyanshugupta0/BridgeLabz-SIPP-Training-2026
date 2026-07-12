@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BridgeLabz-SIPP-Training-2026.iml" filepath="$PROJECT_DIR$/BridgeLabz-SIPP-Training-2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericClass/GenericClass.iml" filepath="$PROJECT_DIR$/GenericClass/GenericClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcr-codebase/core-java-practice/Object Oriented Programming/Object Oriented Programming.iml" filepath="$PROJECT_DIR$/gcr-codebase/core-java-practice/Object Oriented Programming/Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Scenario Based Questions/Scenario Based Questions.iml" filepath="$PROJECT_DIR$/Collections/Scenario Based Questions/Scenario Based Questions.iml" />
+    </modules>
+  </component>
+</project>

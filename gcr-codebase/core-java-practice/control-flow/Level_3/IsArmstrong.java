@@ -1,3 +1,4 @@
+package Level_3;
 import java.util.Scanner;
 public class IsArmstrong {
     public static void main(String[] args) {

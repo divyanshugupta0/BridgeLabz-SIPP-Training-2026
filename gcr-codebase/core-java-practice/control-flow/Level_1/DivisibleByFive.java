@@ -1,3 +1,4 @@
+package Level_1;
 import java.util.Scanner;
 public class DivisibleByFive {
     public static void main(String[] args) {
