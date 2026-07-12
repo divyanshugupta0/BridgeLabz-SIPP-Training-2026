@@ -1,4 +1,4 @@
-public class SideOfSquare {
+public class SideOfSquare1 {
     public static void main(String[] args) {
         double perimeter = 20.0;
         double side = perimeter / 4;
